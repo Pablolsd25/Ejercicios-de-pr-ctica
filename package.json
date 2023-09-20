@@ -20,5 +20,7 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "git-raw-commits": "2.0.11"
+  }
 }
