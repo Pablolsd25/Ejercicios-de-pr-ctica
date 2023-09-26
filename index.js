@@ -122,3 +122,5 @@ console.log(rango(1, 10, 2));
 const nuevaSuma = suma(miRango);
 
 console.log(nuevaSuma);
+
+//
